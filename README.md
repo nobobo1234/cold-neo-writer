@@ -1,7 +1,3 @@
-Here is a professional, clean, and comprehensive `README.md` for your project.
-
----
-
 # ❄️ Cold Neo Writer
 
 **The digital straitjacket for Neovim.**
